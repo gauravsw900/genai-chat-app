@@ -103,3 +103,6 @@ TOOLS = [..., my_tool]
 - Auth / multi-user support
 - Swap FAISS for a hosted vector DB (Pinecone/Weaviate) for persistence across restarts
 - Add unit tests for RAG pipeline
+
+## License
+MIT
